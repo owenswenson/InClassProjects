@@ -1,0 +1,2 @@
+I created a Linked List class that created the linked list and had methods to add, remove, reverse, and merge the two lists. The same for an Array List. The elements within the list can be any type.
+I learned how an interface works, the comparable type, how nodes work as a linked list, how arrraylists can be used, which is more efficient in a certain situation between linked lists and arraylists, and how to use debugging tools provided in the IntelliJ debugger.
