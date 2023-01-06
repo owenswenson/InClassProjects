@@ -1,0 +1,1 @@
+Created a class for each type of piece on the board(an 8x8 array), a class for Piece that can set and move the pieces, a class for the board and a class for game. From this I learned a lot such as how the Scanner class works, how to display special characters, understanding arrays, and most importantly how multiple classes can come together to create something.
