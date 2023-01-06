@@ -1,0 +1,2 @@
+Used a stack to generate a maze in a 2D array with size between 5 and 20 cells depending on what the user enters for both width and height. It is then printed showing what the maze looks like then uses a queue to solve the maze and put * in the cells that were visited by the search for the exit.
+I learned how a stack and a queue can be used in computer science and the importance of both.
