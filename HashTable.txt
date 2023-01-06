@@ -1,0 +1,2 @@
+For this project, I had to come up with the hash function used to handle collisions as well as create my new hashtable as an array of nodes and display the number of most collisions at one index, the average collisions at an index, and every index with the number of collisions at that index for both a specific hashtable length and a general hashtable length when given a txt file.
+I learned how a hashtable works and how to create an efficient one that can distribute the elements well.
